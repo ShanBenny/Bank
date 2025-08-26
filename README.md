@@ -24,7 +24,7 @@ Git/GitHub
 
 Clone repository
 
-git clone https://github.com/your-username/Bank-IFSC-Project.git
+git clone https://github.com/ShanBenny/Bank-IFSC-Project.git
 cd Bank-IFSC-Project
 
 
